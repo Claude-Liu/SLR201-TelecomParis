@@ -1,0 +1,205 @@
+client 4 think for 44 ms.
+client 0 think for 24 ms.
+client 2 think for 254 ms.
+client 3 think for 22 ms.
+client 1 think for 89 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 3 eat for 83 ms.
+client 0 eat for 171 ms.
+client 3 think for 169 ms.
+client 0 think for 249 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 120 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 137 ms.
+client 4 think for 200 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 243 ms.
+client 1 think for 156 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 21 ms.
+client 0 think for 86 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 216 ms.
+client 3 think for 176 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 26 ms.
+client 4 think for 250 ms.
+client 1 think for 35 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 176 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 206 ms.
+client 2 think for 48 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 55 ms.
+client 0 think for 106 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 228 ms.
+client 3 think for 248 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 124 ms.
+client 4 think for 169 ms.
+client 1 think for 7 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 138 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 123 ms.
+client 0 think for 151 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 38 ms.
+client 2 think for 153 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 92 ms.
+client 4 think for 102 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 12 ms.
+client 3 think for 158 ms.
+client 1 think for 237 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 132 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 240 ms.
+client 4 think for 251 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 218 ms.
+client 2 think for 109 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 232 ms.
+client 0 think for 182 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 154 ms.
+client 3 think for 95 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 215 ms.
+client 1 think for 179 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 146 ms.
+client 2 think for 13 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 142 ms.
+client 4 think for 72 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 146 ms.
+client 2 think for 254 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 188 ms.
+client 0 think for 63 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 121 ms.
+client 1 think for 86 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 99 ms.
+client 3 think for 232 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 58 ms.
+client 0 think for 54 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 222 ms.
+client 2 think for 91 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 40 ms.
+client 1 think for 22 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 245 ms.
+client 4 think for 56 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 172 ms.
+client 1 think for 238 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 34 ms.
+client 0 think for 224 ms.
+client 3 think for 244 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 210 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 78 ms.
+client 4 think for 239 ms.
+client 2 think for 13 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 123 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 231 ms.
+client 1 think for 58 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 245 ms.
+client 3 think for 48 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 197 ms.
+client 0 think for 204 ms.
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 164 ms.
+client 2 think for 243 ms.
+client 1 get leftfork. 
+client 1 get rightfork. 
+client 1 eat for 198 ms.
+client 4 think for 173 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 48 ms.
+client 3 think for 165 ms.
+client 0 get leftfork. 
+client 0 get rightfork. 
+client 0 eat for 121 ms.
+1: END. 
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 22 ms.
+client 2 think for 45 ms.
+client 3 get leftfork. 
+client 3 get rightfork. 
+client 3 eat for 127 ms.
+0: END. 
+3: END. 
+client 4 get leftfork. 
+client 4 get rightfork. 
+client 4 eat for 190 ms.
+client 2 get leftfork. 
+client 2 get rightfork. 
+client 2 eat for 231 ms.
+4: END. 
+2: END. 
