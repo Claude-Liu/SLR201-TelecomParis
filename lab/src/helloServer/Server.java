@@ -13,26 +13,29 @@ class Server extends Thread {
     @Override
     public void run() {
         try {
-            ServerSocket serverSocket = new ServerSocket(port);
-            System.out.println("Server is waiting for client connections...");
+            try (ServerSocket serverSocket = new ServerSocket(port)) {
+                System.out.println("Server is waiting for client connections...");
 
-            while (true) {
-                Socket clientSocket = serverSocket.accept();
-                System.out.println("Client connected: " + clientSocket);
+                while (true) {
+                    Socket clientSocket = serverSocket.accept();
+                    System.out.println("Client connected: " + clientSocket);
 
-                // Buffered character input stream
-                BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-                // Buffered character output stream
-                PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-                
-                String clientMessage = in.readLine();
-                System.out.println("Received from client: " + clientMessage);
+                    // Buffered character input stream
+                    BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+                    // Buffered character output stream
+                    PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
+                    
+                    String clientMessage = in.readLine();
+                    System.out.println("Received from client: " + clientMessage);
+                    //simulate doing the task
+                    try { Thread.sleep(1000) ; } catch(Exception e) {}
 
-                String response = "Hello " + clientMessage + "!";
-                out.println(response);
+                    String response = "Hello " + clientMessage + "!";
+                    out.println(response);
 
-                clientSocket.close();
-                serverSocket.close();
+                    clientSocket.close();
+                    //serverSocket.close();
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();

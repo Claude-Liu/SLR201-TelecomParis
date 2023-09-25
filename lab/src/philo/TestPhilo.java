@@ -1,7 +1,6 @@
 package philo;
 import java.io.FileWriter;
 import java.util.ArrayList;
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class TestPhilo {

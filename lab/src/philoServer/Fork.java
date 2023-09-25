@@ -1,4 +1,4 @@
-package philo;
+package philoServer;
 
 public class Fork {
     private int id;
