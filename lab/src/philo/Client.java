@@ -56,7 +56,6 @@ public class Client extends Thread{
             waiter.serve(id);
             eat();
         }
-        //waiter.printForks();
         if (this.fout != null){
             try{this.fout.write(id + ": END. \n");
                 this.fout.flush();

@@ -24,6 +24,13 @@ public class PhiloClient extends Thread{
         this.random = new Random();
     }
 
+    public PhiloClient(int id, int port, String addr){
+        this.addr =addr;
+        this.port = port;
+        this.id = id;
+        this.random = new Random();
+    }
+
     public int getid(){
         return id;
     }

@@ -21,11 +21,7 @@ public class Waiter {
     public int rightFork(int id){
         return id;
     }
-    public void printForks(){
-        for (int i=0;i<5;i++){
-            System.out.println(forks.get(i).getused());
-        }
-    }
+    
     public synchronized void serve(int clientId){
         int leftFork = leftFork(clientId);
         int rightFork = rightFork(clientId);

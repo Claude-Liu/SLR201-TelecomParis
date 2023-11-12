@@ -10,9 +10,6 @@ public class Fork {
     public int getId(){
         return this.id;
     }
-    public boolean getused(){
-        return used;
-    }
     public synchronized boolean check(){
         return this.used;
     }
